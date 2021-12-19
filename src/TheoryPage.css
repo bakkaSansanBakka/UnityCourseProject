@@ -1,0 +1,16 @@
+p {
+  margin-left: 10%;
+  margin-right: 10%;
+  font-size: 20px;
+}
+
+.ulist {
+  margin-left: 10%;
+  margin-right: 10%;
+  font-size: 20px;
+}
+
+span:hover {
+  color: rgb(11, 0, 165);
+  cursor: default;
+}
